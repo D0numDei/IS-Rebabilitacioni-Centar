@@ -1,0 +1,6 @@
+# IS-Rebabilitacioni-Centar
+Informacioni sistem obuhvata bazu podataka o pacijentima i korisnicima.
+
+Prilikom pristupa samom sistemu i bazi podataka korisnici imaju različita prava pristupa.
+Korisnici mogu biti zaposleni (medicinske sestre i doktori) i administrator sistema.
+Najčešći korisnik su medicinske sestre koje imaju pravo unosa u bazu ličnih podataka pacijenata, ažuriranja podataka u vezi sa pacijentima i njihovim boravkom u Rehabilaticionom centru, unosa podataka koji se odnose na primenu terapije, štampanje dokumentacije (otpusne liste i izveštaji). Takodje, one jedine imaju pravo da sprovode pacijenta kroz faze: New, Kreirana dokumentacija, Kreirana otpusta lista i nakon uručivanja otpusne liste pacijentu da ga prebaci u status Otpušten. Doktori imaju prava da unose i ažuriraju medicinske podatke koji se tiču pacijenata i imaju pristup izradi otpusne liste. Prilikom svakog unošenja i ažuriranja medicinskih podataka koji se odnose na pacijenta doktor ostavlja svoj elektronski potpis i vreme unosa. Administratori sistema imaju prava pristupa i ažuriranja svih gore navedenih prava, kreiranja korisničkih naloga za sve korisnike, resetovanja i ažuriranja podataka u vezi sa korisničkim nalozima, kao i modifikovanje baze podataka iz informacionog sistema.
